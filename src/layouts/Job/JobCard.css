@@ -1,0 +1,91 @@
+.card-job {
+  background-color: var(--color-light-tx);
+  border-radius: var(--size-radius-10);
+  padding: 1rem;
+  color: var(--color-dark-txt);
+  background-color: var(--color-light-txt);
+  display: flex;
+  flex-direction: column;
+}
+
+.card-job.active {
+  background-color: red;
+}
+
+.card-job__heading {
+  display: flex;
+  gap: 1rem;
+}
+
+.card-job__body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.card-job__picture {
+  flex-shrink: 0;
+  width: 55px;
+  height: 55px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-job__picture img {
+  object-fit: cover;
+  display: block;
+  max-width: 100%;
+}
+
+.card-job__title {
+  margin: 0;
+  padding-bottom: 0.5rem;
+}
+
+.card-job__tags {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  gap: 1rem;
+}
+
+.card-job__tag {
+  background-color: var(--color-base);
+  padding: 0.5rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.card-job__left {
+  display: flex;
+  gap: 0.7rem;
+}
+
+.card-job .card-job__category {
+  margin-bottom: 1.2rem;
+}
+
+.card-job p {
+  padding: 0;
+  margin: 0;
+}
+
+.card-job--tag1 {
+  color: var(--color-primary);
+}
+
+.card-job--tag2 {
+  color: #f86756;
+}
+
+@media screen and (min-widht: 768px) {
+  .card-job {
+    max-width: 400px;
+  }
+}

@@ -1,0 +1,25 @@
+.wrapper-header {
+  background-color: var(--color-light-txt);
+  padding-bottom: 5rem;
+  margin-bottom: 2.5rem;
+}
+
+.home-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  gap: 1.5rem;
+}
+
+.aside-filter {
+  width: 100%;
+  margin-left: min(1rem, max(1.5vmin, 0.3rem));
+  margin-right: min(1rem, max(1.5vmin, 0.3rem));
+  background-color: var(--color-light-txt);
+  border-radius: var(--size-radius-10);
+  background-color: var(--color-primary-accent);
+}
+
+.main-home {
+  flex: 8;
+}

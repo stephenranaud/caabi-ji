@@ -1,0 +1,75 @@
+.wrapper-jobs {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  gap: 1rem;
+  position: relative;
+}
+
+.jobs {
+  flex: 4;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.job-select {
+  display: none;
+  border-radius: var(--size-radius-10);
+  background-color: var(--color-light-txt);
+}
+
+.job-select.active {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.close {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 35px;
+  width: 35px;
+  top: 1rem;
+  right: 1rem;
+  background-color: var(--color-primary);
+  color: var(--color-light-txt);
+  border-radius: 50%;
+  box-shadow: 0px 0px 1px 1px rgba(169, 169, 169, 0.515);
+  z-index: 10;
+  cursor: pointer;
+}
+
+.no-jobs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--fs-2);
+  font-weight: bold;
+  width: 100%;
+  height: 30vh;
+}
+
+@media screen and (min-width: 1024px) {
+  .job-select.active {
+    flex: 12;
+    display: block;
+    min-width: 300px;
+    max-width: 800px;
+    background-color: var(--color-light-txt);
+    position: sticky;
+    top: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .wrapper-jobs.active {
+    height: 100vh;
+    overflow: hidden;
+  }
+}

@@ -1,0 +1,25 @@
+.show-job {
+  position: relative;
+}
+
+.show-job h2 {
+  padding: 0;
+  margin: 0;
+  font-size: var(--fs-1);
+}
+
+.show-job__body {
+  padding: 0 1.5rem;
+}
+
+.show-job__logo-company {
+  display: flex;
+  justify-content: center;
+  width: calc(min(75px, max(45px, 7vmin)));
+  height: calc(min(75px, max(45px, 7vmin)));
+  position: relative;
+  transform: translateY(-50%);
+  border-radius: var(--size-radius-10);
+  background-color: var(--color-light-txt);
+  padding: 0.3rem;
+}

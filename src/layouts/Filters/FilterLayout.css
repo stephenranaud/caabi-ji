@@ -1,0 +1,20 @@
+.filter {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 1.5rem;
+  padding: 2.7rem 1.2rem 0.7rem;
+}
+
+.filter-section {
+  flex: 1;
+  min-width: 300px;
+}
+
+.items-check {
+  text-align: center;
+}
+
+.employ-check {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}

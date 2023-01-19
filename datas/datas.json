@@ -1,0 +1,290 @@
+{
+  "count": 949634,
+  "results": [
+    {
+      "description": "Audience Manager - 12 months FTC What\u2019s it like working for one of the most innovative brands in the UK? Virgin Media O2 is one of the largest broadband, TV, mobile and home phone providers in the country. We pride ourselves on being brighter, bolder, and faster than our competition, so when we say we\u2019re passionate about helping our customers make connections that really matter \u2013 we really do mean it. Our why: to reimagine connectivity. Our what: to upgrade the UK. Our how: high performing team\u2026",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Virgin Media"
+      },
+      "salary_max": 51429.45,
+      "title": "Audience Manager - 12 month FTC",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX3VWN0pkdVI3UkdfY2VwUmR1WEF6dyIsImkiOiIzODMxOTY2NzQ1In0.jSTqjFGHknbLNfzUZcPVJ82Xr5-VD9db18WuK0h3tFs",
+      "created": "2023-01-07T15:52:10Z",
+      "salary_is_predicted": "1",
+      "location": {
+        "area": ["UK", "London"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "id": "3831966745",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3831966745?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=F2F05518E26787E4AC7DBDE50A71344F8FA6820E",
+      "salary_min": 51429.45
+    },
+    {
+      "company": {
+        "display_name": "Virgin Media",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 63608.11,
+      "description": "Our team is responsible for the security, resilience, reliability, observability, and operability of our platforms. Our offensive security and penetration testing engineers are leaders in their field. They are able to influence management practices and help shape the direction of Virgin Media O2 engineering and application security, in addition to helping develop better software engineers So that's what you'll get up to, but what about us? Well, we're super proud of our history, helping communi\u2026",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzc3NzMwNDQ0NCIsInMiOiJfdVY3SmR1UjdSR19jZXBSZHVYQXp3In0.yINVo-vzoFGOb_YJ-1q2smbJ5KRL1hZi2Z2Lo5Z28ik",
+      "location": {
+        "area": ["UK", "London"],
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "1",
+      "created": "2022-12-15T16:14:24Z",
+      "title": "Senior Penetration Testing Engineer",
+      "id": "3777304444",
+      "salary_min": 63608.11,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3777304444?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=B9C3223F9E08D76C7936D9BE56381BFF3C9EB16C",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "description": "About us Our award-winning Future Careers Team are looking for a Future Careers Coordinator, to join a highly engaged & lively team of eleven. We have brilliant, high-volume and complex apprentice, intern and graduate programmes, so we need someone that can keep their finger on the pulse and give them the attention they deserve. As the team co-ordinator, you'll play a crucial part in our success, ensuring we assist the business and external partners in the achievement of our talent and people s\u2026",
+      "created": "2023-01-04T16:05:13Z",
+      "location": {
+        "display_name": "Reading, Berkshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["UK", "South East England", "Berkshire", "Reading"]
+      },
+      "longitude": -0.969088,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzgyMjg4OTM2OCIsInMiOiJfdVY3SmR1UjdSR19jZXBSZHVYQXp3In0._bwYL9dWp35mCaa164Gw4Vfsu75B4q361c0uMvtGTk4",
+      "latitude": 51.455002,
+      "id": "3822889368",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3822889368?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=94684035ED0A39D1348C5E2A01C3E393D51A55FC",
+      "salary_min": 24309.75,
+      "salary_max": 24309.75,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Virgin Media"
+      },
+      "title": "Future Careers Recruitment Coordinator",
+      "salary_is_predicted": "1"
+    },
+    {
+      "id": "3796836923",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3796836923?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=2B32ADEA8A8046A4068ADCFC2D09BAE1E9AC5953",
+      "salary_min": 54865.69,
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Virgin Media"
+      },
+      "salary_max": 54865.69,
+      "description": "Our business never stays in one place, so why should we? Our ideal expert can be based from any location. We are encouraging home working as much as you would like, with the occasional \u2018get together\u2019 as a team once or twice a month in Hammersmith Job Purpose: The Planning team are on a mission to transform Virgin Media O2\u2019s planning and forecasting processes through building automated driver-based planning models across all business units These models will improve forecast accuracy and give our\u2026",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX3VWN0pkdVI3UkdfY2VwUmR1WEF6dyIsImkiOiIzNzk2ODM2OTIzIn0.6lpwnbAMZNEqtu7IywX6HsXT1nS7Y6Fa41M0UYT4CuQ",
+      "created": "2022-12-23T16:07:26Z",
+      "salary_is_predicted": "1",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": ["UK", "London"]
+      },
+      "title": "Framework Designer"
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "salary_min": 49877.61,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3736586457?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=D20BFEB7A7A27D27A834837F49D274512D983F98",
+      "id": "3736586457",
+      "title": "Senior Data Visualisation Developer",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX3VWN0pkdVI3UkdfY2VwUmR1WEF6dyIsImkiOiIzNzM2NTg2NDU3In0.MCevucLPRn_dLjTKuKQCkqwXWAltqYFeNl_EI3vHk7I",
+      "salary_is_predicted": "1",
+      "created": "2022-12-01T16:05:19Z",
+      "location": {
+        "area": ["UK", "London"],
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Senior Data Visualisation Developer (Maternity Cover) Virgin Media are on a mission to become the most recommended brand by our customers. At the heart of this strategy is digital innovation and our significant data resources. The Data Enablement team is a vital part of Virgin Media\u2019s advanced analytics function; the engine room creating enterprise wide data solutions. These solutions include both single-source-of-truth reporting and the atomic segment-of-one data needed by Data Scientists, Mar\u2026",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Virgin Media"
+      },
+      "salary_max": 49877.61
+    },
+    {
+      "salary_min": 36362.77,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3798919703?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=5B918DCEA2355B4D12E881715A9D9C363AEF9820",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "id": "3798919703",
+      "latitude": 51.5093,
+      "salary_is_predicted": "1",
+      "title": "Senior Multichannel Copywriter (12 months FTC)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Virgin Media"
+      },
+      "salary_max": 36362.77,
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2022-12-24T15:52:43Z",
+      "location": {
+        "area": ["UK", "South East England", "Berkshire", "Slough"],
+        "display_name": "Slough, Berkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -0.595448,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzc5ODkxOTcwMyIsInMiOiJfdVY3SmR1UjdSR19jZXBSZHVYQXp3In0.v7jINxREZHUYVGwoPX4Tk9qFtpUBUVZFiG516JVkYgY",
+      "description": "Senior Multichannel Copywriter (12 months FTC) As a senior copywriter, you\u2019ll be expected to deliver both sales and service-based copy, that supports Virgin Media O2\u2019s growing range of digital products. You\u2019ll work alongside UX managers, designers, developers, product owners, and content/editorial teams to create amazing experiences across multiple platforms, devices, locations, and channels. As part of the Online, Stores, and Supply Chain team, reporting to the Head of Multichannel Copy the Mu\u2026"
+    },
+    {
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["UK", "London"]
+      },
+      "salary_is_predicted": "1",
+      "created": "2022-12-15T16:14:23Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX3VWN0pkdVI3UkdfY2VwUmR1WEF6dyIsImkiOiIzNzc3MzA0NDQwIn0.7p51XM_2IQdzU_M1Z837NkACF4WX7iEvVySTS73EU5g",
+      "title": "Detection & Response Manager",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Virgin Media"
+      },
+      "salary_max": 53297.47,
+      "description": "Detection and Response Engineering Manager The opportunity: At Virgin Media O2, we are not yesterday\u2019s IT department and yesterday\u2019s Security function, we're Digital The world around us keeps changing and so do we. We\u2019re redefining what it means to be a tech company with a mindset centred on transformation, experience, AI-driven automation, innovation, and growth. We\u2019re all about delivering delightful, secure customer and employee experiences that accelerate VMO2\u2019s journey to become the definin\u2026",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3777304440?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=6BC91CB9E4FE358AADE8F07A2815D71C7615C2F2",
+      "salary_min": 53297.47,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      },
+      "contract_time": "full_time",
+      "id": "3777304440"
+    },
+    {
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester"
+        ],
+        "display_name": "Manchester, Greater Manchester",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2023-01-06T15:55:58Z",
+      "longitude": -2.23438,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzgyOTAxMzIyMSIsInMiOiJfdVY3SmR1UjdSR19jZXBSZHVYQXp3In0.KTa0WIBMfMGYPQkcK8tbzwN_Ykgw4I7uRl8jBbIq4MM",
+      "description": "About the role We've got an amazing new opportunity for a Head of Service Fulfilment Platforms to join our Core IT team This is a critical leadership role reporting to the Director Operational & Business Enablement overseeing a function of approximately 25 permanent employees and 60 partner resources. You'll have overall responsibility for systems, services and resources required to support the VMO2 delivery roadmap, ensuring programmes are delivered on time and of quality. This is a great oppo\u2026",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "title": "Head of Service Fulfilment Platforms",
+      "salary_is_predicted": "1",
+      "salary_max": 61798.44,
+      "company": {
+        "display_name": "Virgin Media",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "salary_min": 61798.44,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3829013221?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=92C6E83C3A41C931AF0CB45E2B1D347CEAE4C3A3",
+      "latitude": 53.480701,
+      "id": "3829013221"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3755308451?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=B63B4BD55863C2C4B56F8B5CB0F072181943B9EF",
+      "salary_min": 28696.68,
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "3755308451",
+      "latitude": 51.572201,
+      "salary_is_predicted": "1",
+      "title": "Delivery Engineer",
+      "salary_max": 28696.68,
+      "company": {
+        "display_name": "Virgin Media",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX3VWN0pkdVI3UkdfY2VwUmR1WEF6dyIsImkiOiIzNzU1MzA4NDUxIn0.nl5_KXmgzZQCo_64nISQcb5OWeiIeLy6ZYmZQlx2fNY",
+      "location": {
+        "area": ["UK", "Eastern England", "Essex", "Basildon"],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Basildon, Essex"
+      },
+      "created": "2022-12-07T16:22:20Z",
+      "longitude": 0.462461,
+      "description": "As a Delivery Engineer you\u2019ll be working as part of a multi-skilled team to deliver fibre cable infrastructure across Virgin Media O2 and third-party networks. You'll play a key role in delivery by either building to a design or providing technical solutions within the cabling infrastructure to ensure first time delivery. You\u2019ll be adopting traditional hand pulling cable techniques, introducing fibre into the VM network. This role will involve using a blowing machine, working in all weathers on\u2026"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Virgin Media"
+      },
+      "salary_max": 39966.68,
+      "description": "Location \u2013 Nationwide/ Hybrid working with occasional travel to Hammersmith office. About the role VM and O2 recently joined forces to build a driving force in upgrading the UK. In parallel to a daring program to release alignments, the joint company is also pursuing a daring digitisation program. This program focuses on building pure play capabilities internally. We are looking for a senior lifecycle marketing manager to drive the strategy and execution of cross sell/upsell and retention initi\u2026",
+      "created": "2023-01-07T15:52:08Z",
+      "salary_is_predicted": "1",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": ["UK", "London"]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzgzMTk2NjE2NiIsInMiOiJfdVY3SmR1UjdSR19jZXBSZHVYQXp3In0.T-YiIaze65lMBpK2WT0R69g-nyh3TEf7LWCv-CbNxoA",
+      "title": "Senior Lifecycle Marketing Manager",
+      "id": "3831966166",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/3831966166?se=_uV7JduR7RG_cepRduXAzw&utm_medium=api&utm_source=6216df7d&v=C1343DAE28FB972199B86FBAC67B0E3ABB0B2A16",
+      "salary_min": 39966.68,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "contract_time": "full_time"
+    }
+  ],
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "mean": 36339.66
+}

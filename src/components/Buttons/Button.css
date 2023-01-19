@@ -1,0 +1,15 @@
+.btn {
+  border: none;
+  padding: 1rem 0.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: var(--color-primary-accent);
+  color: var(--color-base);
+}
+
+.btn--radius {
+  border-radius: var(--size-radius-10);
+}
