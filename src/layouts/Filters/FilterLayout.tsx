@@ -30,7 +30,6 @@ function ItemsCheck({ employmentItemsCheck, label }: PropsItemsCheck) {
       <ul role="list">
         {employmentItemsCheck.map((employment, i) => (
           <li role="listitem">
-            {typeof console.log(employment)}
             <EmployItemCheck key={i} contractType={employment} />
           </li>
         ))}
@@ -54,7 +53,7 @@ export default function FilterLayout() {
           employmentItemsCheck={contractType}
         />
       </div>
-      {/* <div className="filter-section">
+      <div className="filter-section">
         <ItemsCheck
           label="Salaire"
           employmentItemsCheck={[ContractTime["FullTime"]]}
@@ -65,7 +64,7 @@ export default function FilterLayout() {
           label="Niveau"
           employmentItemsCheck={[ContractTime["FullTime"]]}
         />
-      </div> */}
+      </div>
     </div>
   );
 }
